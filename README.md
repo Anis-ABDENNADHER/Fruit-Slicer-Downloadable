@@ -6,8 +6,9 @@ Get the latest version of Fruit Slicer game 🔥🔥🔥.
 Screenshots :
 
 
-![Main Menu](https://github.com/Anis-ABDENNADHER/Fruit-Slicer/assets/159264938/c772d0d1-04e9-4384-abab-f58d5ec3e0a0)
-![Play Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer/assets/159264938/ce9c594d-227c-4327-8e2f-a2a9f861a2df)
-![Shop Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer/assets/159264938/147aa45e-9400-4c34-bc7a-b760cf2fda23)
 
 
+
+![Play Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/85f42322-5e9d-4a9d-bd97-68a31ae210a0)
+![Shop Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/30daeea0-bcb0-42db-a75d-543ccceabee1)
+![Main Menu](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/1658c090-0ba5-4d76-8b7a-5eeb8002a848)
