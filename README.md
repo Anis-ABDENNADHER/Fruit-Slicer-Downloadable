@@ -9,6 +9,10 @@ Screenshots :
 
 
 
-![Play Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/85f42322-5e9d-4a9d-bd97-68a31ae210a0)
-![Shop Scene](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/30daeea0-bcb0-42db-a75d-543ccceabee1)
-![Main Menu](https://github.com/Anis-ABDENNADHER/Fruit-Slicer-Downloadable/assets/159264938/1658c090-0ba5-4d76-8b7a-5eeb8002a848)
+
+
+
+![Main_Menu](https://github.com/user-attachments/assets/11e29ae5-a1bd-4a46-880b-ca8aa76c3e8a)
+![Solo_game_mode](https://github.com/user-attachments/assets/76e569fd-ddef-4c0f-a16a-b98fc5fc14fa)
+![Multiplayer_gamemode](https://github.com/user-attachments/assets/0770e0f9-7c48-4d8e-b42f-2b218de683bb)
+![Shop](https://github.com/user-attachments/assets/eeaefbc9-e0d3-4747-9ac2-af35273a41ed)
